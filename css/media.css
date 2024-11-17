@@ -1,0 +1,11 @@
+@media (max-width: 1180px) {
+  .main img {
+    max-width: 540px;
+  }
+  .main-box h2 {
+    font-size: 16px;
+  }
+  .main-box h2 span {
+    font-size: 16px;
+  }
+}
